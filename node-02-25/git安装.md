@@ -71,8 +71,7 @@ git push origin master -u
 - git commit -m"trans" (提交到历史区)
 - git remote add origin 地址
 - git push origin gh-pages
-
-
 组长fork老师的代码
 下载代码到本地
 git clone 地址  文件名
+名称.gitHub.io

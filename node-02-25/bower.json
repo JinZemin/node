@@ -1,0 +1,22 @@
+{
+  "name": "jinzeming",
+  "description": "hello",
+  "main": "index.js",
+  "authors": [
+    "jinzemin <jinzeming999@126.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/JinZemin/node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "lib/js"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "private": true
+}

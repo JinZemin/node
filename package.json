@@ -1,0 +1,25 @@
+{
+  "name": "node-pro",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinZemin/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinZemin/node/issues"
+  },
+  "homepage": "https://github.com/JinZemin/node#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {}
+}
